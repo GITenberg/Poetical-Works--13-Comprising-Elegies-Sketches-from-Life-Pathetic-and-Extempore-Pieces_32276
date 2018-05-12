@@ -1,0 +1,32 @@
+_repo: Poetical-Works--13-Comprising-Elegies-Sketches-from-Life-Pathetic-and-Extempore-Pieces_32276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkerson, James
+    gutenberg_agent_id: '35765'
+    url: http://www.gutenberg.org/2009/agents/35765
+description: ''
+gutenberg_issued: '2010-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+tableOfContents: 'The bankrupt -- An address to the insolvent -- To the memory of
+  an affectionate parent -- Thoughts on passing through a church-yard -- On the death
+  of Mr. Charles Savory -- Epitaph to the above -- The injured to the injurer -- On
+  the death of Lord Nelson -- Truth -- Betsy''s tears: a song -- The reproach -- Albert
+  to Hannah -- On seeing an amiable woman distressed in mind -- A mother''s address
+  to the deity -- On seeing a young nobleman imprisoned for debt -- Life -- On seeing
+  colours consecrated: presented by Mrs. Berkley.'
+title: "Poetical Works\r\nComprising Elegies, Sketches from Life, Pathetic, and Extempore\
+  \ Pieces"
+url: http://www.gutenberg.org/ebooks/32276
